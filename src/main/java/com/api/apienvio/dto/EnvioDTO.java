@@ -1,7 +1,7 @@
 package com.api.apienvio.dto;
 
 import lombok.*;
-import java.util.Date;
+import java.sql.Date;
 
 @Data
 @NoArgsConstructor
